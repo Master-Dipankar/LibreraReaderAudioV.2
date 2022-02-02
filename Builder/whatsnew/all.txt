@@ -1,0 +1,120 @@
+
+<ar>
+* يجد جميع الكتب على الجهاز 
+* الإشارات المرجعية والقواميس 
+* موضوع الليل والنهار 
+* التمرير التلقائي 
+* مدير الملفات المدمج
+</ar>
+
+<de-DE>
+* Findet alle Bücher auf dem Gerät 
+* Lesezeichen und Wörterbücher 
+* Tag- und Nachtthema 
+* Automatisches Scrollen 
+* Integrierter Dateimanager
+</de-DE>
+
+<fa>
+* تمام کتاب های موجود در دستگاه را پیدا می کند 
+* نشانک ها و واژه نامه ها 
+* تم شب و روز 
+* پیمایش خودکار 
+* مدیر فایل داخلی
+</fa>
+
+<fr-FR>
+* Recherche tous les livres sur l’appareil 
+* Signets et dictionnaires 
+* Thème nuit et jour 
+* Défilement automatique 
+* Gestionnaire de fichiers intégré
+</fr-FR>
+
+<it-IT>
+* Trova tutti i libri sul dispositivo 
+* Segnalibri e dizionari 
+* Tema notte e giorno 
+* Scorrimento automatico 
+* File Manager integrato
+</it-IT>
+
+<ja-JP>
+*デバイス上のすべての本を検索
+*ブックマークと辞書
+*夜と昼のテーマ
+*自動スクロール
+*組み込みのファイルマネージャー
+</ja-JP>
+
+<ko-KR>
+* 장치의 모든 책을 찾습니다 
+* 책갈피 및 사전 
+* 밤낮 테마 
+* 자동 스크롤 
+* 내장 파일 관리자
+</ko-KR>
+
+<pt-PT>
+* Encontra todos os livros no dispositivo 
+* Marcadores e dicionários 
+* Tema noturno e diurno 
+* Rolagem automática 
+* Gerenciador de arquivos embutido
+</pt-PT>
+
+<ru-RU>
+* Находит все книги на устройстве 
+* Закладки и словари 
+* Ночная и дневная тема 
+* Автоматическая прокрутка 
+* Встроенный файловый менеджер
+</ru-RU>
+
+<th>
+* ค้นหาหนังสือทั้งหมดบนอุปกรณ์ 
+* ที่คั่นหนังสือและพจนานุกรม 
+* ธีมกลางคืนและกลางวัน 
+* การเลื่อนอัตโนมัติ 
+* ตัวจัดการไฟล์ในตัว
+</th>
+
+<tr-TR>
+* Cihazdaki tüm kitapları bulur 
+* Yer imleri ve Sözlükler 
+* Gece ve Gündüz Teması 
+* Otomatik kaydırma 
+* Dahili Dosya Yöneticisi
+</tr-TR>
+
+<vi>
+* Tìm tất cả sách trên thiết bị 
+* Dấu trang và Từ điển 
+* Chủ đề đêm và ngày 
+* Cuộn tự động 
+* Trình quản lý tệp tích hợp
+</vi>
+
+<zh-CN>
+*查找设备上的所有书籍
+*书签和字典
+*昼夜主题
+*自动滚动
+*内置文件管理器
+</zh-CN>
+
+<zh-TW>
+*查找設備上的所有書籍
+*書籤和字典
+*晝夜主題
+*自動滾動
+*內置文件管理器
+</zh-TW>
+
+<en-US>
+* Finds all books on the device
+* Bookmarks and Dictionaries
+* Night and Day Theme
+* Automatic scrolling
+* Built-in File Manager
+</en-US>

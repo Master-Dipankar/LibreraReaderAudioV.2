@@ -1,0 +1,5 @@
+* Finds all books on the device
+* Bookmarks and Dictionaries
+* Night and Day Theme
+* Automatic scrolling
+* Built-in File Manager
