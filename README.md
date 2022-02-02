@@ -1,6 +1,6 @@
 
 
-
+## No time... :( Just some twicks to improve Audio from previous version try it, settings are down to compile apk nxt update coming after 22/03/22....  
 
 ## Required build libs
 
